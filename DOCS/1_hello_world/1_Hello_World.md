@@ -9,7 +9,7 @@
 1.	Activity_main.xml
 
 Mengubah tampilan teks dan menghubungkan bgstyle agar dapat tampil ke dalam layer utama
-![1](https://user-images.githubusercontent.com/56153134/94882656-c7473100-0492-11eb-9c4f-ffe067002c8a.png)
+![1](IMG/1.png)
 
 
 2.	Bgstyle.xml
