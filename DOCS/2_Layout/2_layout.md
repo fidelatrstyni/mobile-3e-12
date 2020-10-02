@@ -1,7 +1,12 @@
 # mobile-3e-12
-NAMA : FIDELA TRISAKTIYANI
-KELAS : TI - 3E
-NO ABSEN : 12
-NIM : 1841720211
+TASK GUIDE (A1X.01)
+A.	Objectives.Students know how to start an Android Studio Project with blank layout.
+B.	Result
 
-POLITEKNIK NEGERI MALANG
+TASK GUIDE (A1X.02)
+A.	Objectives.Students know how to configure Android Studio project resources, like string and font
+B.	Result
+
+TASK GUIDE (A1X.03)
+A.	Objectives. Students know how to design basic layout, add TextView, and add a Button.
+B.	Result
