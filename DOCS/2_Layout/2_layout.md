@@ -1,6 +1,7 @@
 # mobile-3e-12
 TASK GUIDE (A1X.01)
 A.	Objectives.Students know how to start an Android Studio Project with blank layout.
+
 B.	Result
 ![1](https://user-images.githubusercontent.com/56153134/94881716-50109d80-0490-11eb-8283-f600c542c414.png)
 
