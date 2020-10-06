@@ -70,5 +70,5 @@ B. Result
 A. Students know how to add drawable resource and make a Table.
 
 B. Result
-![ss9](IMG/ss9-1.png)
+![ss9](IMG/ss9-1.jpg)
 ![9](IMG/9-full.png)
