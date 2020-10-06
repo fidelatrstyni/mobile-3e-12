@@ -42,3 +42,27 @@ B. Result
 ![5](IMG/5.png)
 ![5-1](IMG/5-1.png)
 
+# TASK GUIDE (A1X.06)
+
+A. Students know how to make CheckBox.
+
+B. Result
+![ss6](IMG/ss6.png)
+![6](IMG/6.png)
+
+# TASK GUIDE (A1X.07)
+
+A. Students know how to make RadioGroup and RadioButton.
+
+B. Result
+![ss7](IMG/ss7.png)
+![7](IMG/7.png)
+
+# TASK GUIDE (A1X.08)
+
+A. Students know how to add image resource and make an ImageView.
+
+B. Result
+![ss8](IMG/ss8.png)
+![8](IMG/8.png)
+![8-1](IMG/8-1.png)
