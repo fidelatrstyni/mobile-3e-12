@@ -33,10 +33,10 @@ Disini saya mengubah dengan menghilangkan action bar, dengan mengubah seperti ko
 5.	Hasil dari codingan diatas
 
 1.	Menggunakan action bar
-![ss](IMG/ss.png)
+![ss](IMG/ss.jpg)
 
  
 2.	Tidak menggunakan action bar
-![ss2](IMG/ss2.png)
+![ss2](IMG/ss2.jpg)
  
 
