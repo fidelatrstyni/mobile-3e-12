@@ -39,8 +39,7 @@ B. Result
 A. Students know how to configure color resources, make EditText, and Spinner.
 
 B. Result
-![5](IMG/5.png)
-![5-1](IMG/5-1.png)
+![5](IMG/5-full.png)
 
 # TASK GUIDE (A1X.06)
 
@@ -64,5 +63,4 @@ A. Students know how to add image resource and make an ImageView.
 
 B. Result
 ![ss8](IMG/ss8.png)
-![8](IMG/8.png)
-![8-1](IMG/8-1.png)
+![8](IMG/8-full.png)
