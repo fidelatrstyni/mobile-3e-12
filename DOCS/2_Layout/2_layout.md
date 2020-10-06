@@ -26,10 +26,9 @@ A. Objectives. Students know how to design basic layout, add TextView, and add a
 B. Result
 ![4](IMG/4.png)
 
-TASK GUIDE (A1X.03)
+TASK GUIDE (A1X.05)
 A. Objectives. Students know how to design basic layout, add TextView, and add a Button.
 B. Result
 ![5](IMG/5.png)
-TASK GUIDE (A1X.03)
 ![5-1](IMG/5-1.png)
 
