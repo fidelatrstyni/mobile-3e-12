@@ -64,3 +64,11 @@ A. Students know how to add image resource and make an ImageView.
 B. Result
 ![ss8](IMG/ss8.png)
 ![8](IMG/8-full.png)
+
+# TASK GUIDE (A1X.09)
+
+A. Students know how to add drawable resource and make a Table.
+
+B. Result
+![ss9](IMG/ss9-1.png)
+![9](IMG/9-full.png)
