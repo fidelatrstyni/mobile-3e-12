@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pemrograman Mobile
 
 |  |  |
@@ -33,4 +34,16 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(FIDELA TRISAKTIYANI)***
+***FIDELA TRISAKTIYANI***
+=======
+# mobile-3e-12
+NAMA : FIDELA TRISAKTIYANI
+
+KELAS : TI - 3E
+
+NO ABSEN : 12
+
+NIM : 1841720211
+
+# POLITEKNIK NEGERI MALANG
+>>>>>>> 73e1f88d90d5030f4cf7e79c165af85ce2d9ba30
