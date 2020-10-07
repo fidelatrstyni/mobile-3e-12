@@ -5,6 +5,12 @@
 1. How to start an Android Studio Project with blank layout
 2. How to configure Android Studio project resources, like string and font
 3. How to design basic layout, add TextView, and add a Button.
+4. How to make Space andadd Child Layout.
+5. how to configure color resources, make EditText, and Spinner.
+6. How to make CheckBox.
+7. How to make RadioGroup and RadioButton.
+8. How to add image resource and make an ImageView.
+9. How to add drawable resource and make a Table.
 
 ## Hasil Praktikum
 
