@@ -1,10 +1,10 @@
-# mobile-3e-12
+# 01 - Hello World
 
-# PEMROGRAMAN MOBILE
+## Tujuan Pembelajaran
 
- 
-# ANDROID STUDIO
-# HELLO WORLD PROGRAM
+1. Bisa mengetahui cara awal membuat Hello World
+
+## Hasil Praktikum
 
 1.	Activity_main.xml
 
