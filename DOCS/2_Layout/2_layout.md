@@ -2,8 +2,9 @@
 
 ## Tujuan Pembelajaran
 
-1. (bisa copy dari RPS kolom sub-CP-MK)
-2. dst
+1. How to start an Android Studio Project with blank layout
+2. How to configure Android Studio project resources, like string and font
+3. How to design basic layout, add TextView, and add a Button.
 
 ## Hasil Praktikum
 
