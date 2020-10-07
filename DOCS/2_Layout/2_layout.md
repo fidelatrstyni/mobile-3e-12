@@ -1,10 +1,11 @@
-# mobile-3e-12
+# 02 - Layout
 
-# PEMROGRAMAN MOBILE
+## Tujuan Pembelajaran
 
- 
-# ANDROID STUDIO
-# Layout
+1. (bisa copy dari RPS kolom sub-CP-MK)
+2. dst
+
+## Hasil Praktikum
 
 # TASK GUIDE (A1X.01)
 
