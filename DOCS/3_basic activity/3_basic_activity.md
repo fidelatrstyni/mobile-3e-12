@@ -28,7 +28,7 @@ B. Hasil
 A. How to create a Distance class to convert unit
 
 B. Hasil
-![2](IMG/task2/output 2.png)
+![2](IMG/task2/output2.png)
 
 # TASK GUIDE (A1X.03)
 
