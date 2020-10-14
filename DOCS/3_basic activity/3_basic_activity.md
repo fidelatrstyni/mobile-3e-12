@@ -21,7 +21,7 @@ checked.
 A. How to create a Temperature class to convert unit.
 
 B. Hasil
-![1](IMG/task1/output1.png)
+![1](IMG/task1/OUTPUT1.png)
 
 # TASK GUIDE (A1X.02)
 
