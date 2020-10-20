@@ -1,4 +1,4 @@
-# 05 - Sccrolling Text
+# 06 - Input Control
 
 ## Tujuan Pembelajaran
 
