@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.example.scrollingtext.CmtActivity">
+
+    <TextView
+        android:id="@+id/cmt_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
+        android:padding="@dimen/padding_regular"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        android:textStyle="bold"
+        android:text="@string/comment"
+        />
+
+    <TextView
+        android:id="@+id/cmt_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cmt_heading"
+        android:padding="@dimen/padding_regular"
+        android:text="@string/cmt_subtitle"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
+
+    <TextView
+        android:id="@+id/cmt"
+        android:layout_width="421dp"
+        android:layout_height="241dp"
+        android:layout_below="@id/cmt_subheading"
+        android:layout_marginTop="-2dp"
+        android:autoLink="web"
+        android:background="@android:color/background_light"
+        android:lineSpacingExtra="@dimen/line_spacing"
+        android:padding="@dimen/padding_regular"
+        android:text="@string/cmt_text" />
+
+</LinearLayout>
