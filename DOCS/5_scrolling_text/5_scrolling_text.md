@@ -14,41 +14,41 @@
 
 # A. Create the project and TextView elements
 
-![51](IMG/51.png)
-![52](IMG/52.png)
+![51](img/51.png)
+![52](img/52.png)
 
 # B. Add the text of the article
 
-![1](IMG/1.png)
-![2](IMG/2.png)
-![3](IMG/3.png)
-![4](IMG/4.png)
+![1](img/1.png)
+![2](img/2.png)
+![3](img/3.png)
+![4](img/4.png)
 
 ## Task 2: Add a ScrollView and an active web link
 
 # A. Add the autoLink attribute for active web links
 
-![4](IMG/4.png)
+![4](img/4.png)
 
 # B. Add a ScrollView to the layout
 
-![61](IMG/61.png)
-![62](IMG/62.png)
+![61](img/61.png)
+![62](img/62.png)
 
 # C. Add a LinearLayout to the ScrollView
 
-![61](IMG/61.png)
-![62](IMG/62.png)
+![61](img/61.png)
+![62](img/62.png)
 
 ## Hasil Run APP
-![ss1](IMG/ss1.png)
+![ss1](img/ss1.png)
 
 
 ## Challenge
 
-![chal1](IMG/chal1.png)
-![chal2](IMG/chal2.png)
-![chal3](IMG/chal3.png)
+![chal1](img/chal1.png)
+![chal2](img/chal2.png)
+![chal3](img/chal3.png)
 
 # Hasil Run APP Challenge
-![ss2](IMG/ss2.png)
+![ss2](img/ss2.png)
