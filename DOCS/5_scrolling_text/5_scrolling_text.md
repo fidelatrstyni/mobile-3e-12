@@ -41,7 +41,7 @@
 ![62](img/62.png)
 
 ## Hasil Run APP
-![ss1](img/ss1.png)
+![ss1](img/ss1.jpg)
 
 
 ## Challenge
@@ -51,4 +51,4 @@
 ![chal3](img/chal3.png)
 
 # Hasil Run APP Challenge
-![ss2](img/ss2.png)
+![ss2](img/ss2.jpg)
