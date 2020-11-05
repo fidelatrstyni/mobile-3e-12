@@ -46,15 +46,15 @@
 ![2](IMG/ViewModel2.png)
 
 ## Hasil Run APP
-![ss1](img/ss1.jpg)
-![ss2](img/ss2.jpg)
+![ss1](IMG/ss1.jpg)
+![ss2](IMG/ss2.jpg)
 
 ## Challenge
 
-![chal1](img/challenge.png)
+![chal1](IMG/challenge.png)
 
 # Hasil Run APP Challenge
-![ss3](img/ss3.jpg)
-![ss4](img/ss4.jpg)
-![ss5](img/ss5.jpg)
-![ss6](img/ss6.jpg)
+![ss3](IMG/ss3.jpg)
+![ss4](IMG/ss4.jpg)
+![ss5](IMG/ss5.jpg)
+![ss6](IMG/ss6.jpg)
