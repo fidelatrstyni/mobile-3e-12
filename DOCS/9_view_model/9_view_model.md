@@ -10,23 +10,25 @@
 
 # ScoreViewModel
 
-![1](IMG/skorviewmodel1.png = 250x)
+![1](IMG/skorviewmodel1.png)
 
 # ScoreFragment
 
-![1](IMG/scorefragment1.png)
-![2](IMG/scorefragment2.png)
-![3](IMG/scorefragment3.png)
-![4](IMG/scorefragment4.png)
+![1](IMG/scorefragment.png)
 
 # GoalFragment
 
 ![5](IMG/GoalFragment1.png)
 ![6](IMG/GoalFragment2.png)
 
+# Hasil Run APP
+
+![ss1](IMG/ss1.png)
 
 ## Challenge
 
-
+![chall1](IMG/chall1.png)
 
 # Hasil Run APP Challenge
+
+![sschall](IMG/sschall.png)
