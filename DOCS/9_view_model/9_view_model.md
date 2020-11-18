@@ -23,7 +23,7 @@
 
 # Hasil Run APP
 
-![ss1](IMG/ss1.png)
+![ss1](IMG/ss1.jpg)
 
 ## Challenge
 
@@ -31,4 +31,4 @@
 
 # Hasil Run APP Challenge
 
-![sschall](IMG/sschall.png)
+![sschall](IMG/sschall.jpg)
