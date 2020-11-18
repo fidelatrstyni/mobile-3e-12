@@ -47,6 +47,6 @@
 
 # Hasil Run APP
 
-![SS1](IMG/SS1.png)
-![SS2](IMG/SS2.png)
-![SS3](IMG/SS3.png)
+![SS1](IMG/SS1.jpg)
+![SS2](IMG/SS2.jpg)
+![SS3](IMG/SS3.jpg)
