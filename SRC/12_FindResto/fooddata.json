@@ -1,0 +1,127 @@
+{
+    " popular " : [
+    {
+      " name " : " Nasi Goreng " ,
+      " imageUrl " : " https://www.dropbox.com/s/vky2yw2b35h9hzy/popular1.jpg?dl=0 " ,
+      " rating " : " 5.0 " ,
+      " deliveryTime " : " 45 mins ",
+      " deliveryCharges " : " Free Delivery ",
+      " price " : " 150 ",
+      " note " : " Extra special "
+    },
+    {
+        " name " : " Rendang " ,
+        " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
+        " rating " : " 4.9 " ,
+        " deliveryTime " : " 35 mins ",
+        " deliveryCharges " : " Free Delivery ",
+        " price " : " 250 ",
+        " note " : " Special "
+      },
+    {
+      " name " : " Nasi Padang " ,
+      " imageUrl " : " https://www.dropbox.com/s/4fki07u9x82ou1c/popular3.jpeg?dl=0 " ,
+      " rating " : " 4.5 " ,
+      " deliveryTime " : " 55 mins ",
+      " deliveryCharges " : " Delivery charges 50 extra ",
+      " price " : " 150 ",
+      " note " : " Chilly "
+    },
+    {
+        " name " : " Indomie " ,
+        " imageUrl " : " https://www.dropbox.com/s/gajad2raj1pcpbc/popular4.jpg?dl=0 " ,
+        " rating " : " 3.8 " ,
+        " deliveryTime " : " 25 mins ",
+        " deliveryCharges " : " Free Delivery ",
+        " price " : " 150 ",
+        " note " : " Spicy "
+      }
+    ],
+
+    " recommended " : [
+      {
+        " name " : " Rendang " ,
+        " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
+        " rating " : " 4.9 " ,
+        " deliveryTime " : " 35 mins ",
+        " deliveryCharges " : " Free Delivery ",
+        " price " : " 250 ",
+        " note " : " Special "
+      },
+      {
+        " name " : " Nasi Goreng " ,
+        " imageUrl " : " https://www.dropbox.com/s/vky2yw2b35h9hzy/popular1.jpg?dl=0 " ,
+        " rating " : " 5.0 " ,
+        " deliveryTime " : " 45 mins ",
+        " deliveryCharges " : " Free Delivery ",
+        " price " : " 150 ",
+        " note " : " Extra special "
+      },
+      {
+        " name " : " Pecel " ,
+        " imageUrl " : " https://www.dropbox.com/s/yf9w85qor5nf4x8/recommended1.jpg?dl=0 " ,
+        " rating " : " 4.0 " ,
+        " deliveryTime " : " 75 mins ",
+        " deliveryCharges " : " Free Delivery ",
+        " price " : " 150 ",
+        " note " : " Special, Spicy "
+      }
+    ],
+
+    " allmenu " : [
+        {
+          " name " : " Rendang " ,
+          " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
+          " rating " : " 4.9 " ,
+          " deliveryTime " : " 35 mins ",
+          " deliveryCharges " : " Free Delivery ",
+          " price " : " 250 ",
+          " note " : " Special "
+        },
+        {
+          " name " : " Nasi Goreng " ,
+          " imageUrl " : " https://www.dropbox.com/s/vky2yw2b35h9hzy/popular1.jpg?dl=0 " ,
+          " rating " : " 5.0 " ,
+          " deliveryTime " : " 45 mins ",
+          " deliveryCharges " : " Free Delivery ",
+          " price " : " 150 ",
+          " note " : " Extra special "
+        },
+        {
+          " name " : " Pecel " ,
+          " imageUrl " : " https://www.dropbox.com/s/yf9w85qor5nf4x8/recommended1.jpg?dl=0 " ,
+          " rating " : " 4.0 " ,
+          " deliveryTime " : " 75 mins ",
+          " deliveryCharges " : " Free Delivery ",
+          " price " : " 150 ",
+          " note " : " Special, Spicy "
+        },
+        {
+            " name " : " Indomie " ,
+            " imageUrl " : " https://www.dropbox.com/s/gajad2raj1pcpbc/popular4.jpg?dl=0 " ,
+            " rating " : " 3.8 " ,
+            " deliveryTime " : " 25 mins ",
+            " deliveryCharges " : " Free Delivery ",
+            " price " : " 150 ",
+            " note " : " Spicy "
+          },
+          {
+            " name " : " Nasi Padang " ,
+            " imageUrl " : " https://www.dropbox.com/s/4fki07u9x82ou1c/popular3.jpeg?dl=0 " ,
+            " rating " : " 4.5 " ,
+            " deliveryTime " : " 55 mins ",
+            " deliveryCharges " : " Delivery charges 50 extra ",
+            " price " : " 150 ",
+            " note " : " Chilly "
+          },
+          {
+            " name " : " Rendang " ,
+            " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
+            " rating " : " 4.9 " ,
+            " deliveryTime " : " 35 mins ",
+            " deliveryCharges " : " Free Delivery ",
+            " price " : " 250 ",
+            " note " : " Special "
+          },
+      ]
+  }
