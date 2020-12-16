@@ -2,7 +2,7 @@
     " popular " : [
     {
       " name " : " Nasi Goreng " ,
-      " imageUrl " : " https://github.com/fidelatrstyni/mobile-3e-12/blob/master/SRC/12_FindResto/img/popular1.jpg " ,
+      " imageUrl " : " https://www.dropbox.com/s/vky2yw2b35h9hzy/popular1.jpg?dl=0 " ,
       " rating " : " 5.0 " ,
       " deliveryTime " : " 45 mins ",
       " deliveryCharges " : " Free Delivery ",
@@ -11,7 +11,7 @@
     },
     {
         " name " : " Rendang " ,
-        " imageUrl " : " https://github.com/fidelatrstyni/mobile-3e-12/blob/master/SRC/12_FindResto/img/popular2.jpg " ,
+        " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
         " rating " : " 4.9 " ,
         " deliveryTime " : " 35 mins ",
         " deliveryCharges " : " Free Delivery ",
@@ -20,7 +20,7 @@
       },
     {
       " name " : " Nasi Padang " ,
-      " imageUrl " : "https://github.com/fidelatrstyni/mobile-3e-12/blob/master/SRC/12_FindResto/img/popular3.jpeg " ,
+      " imageUrl " : " https://www.dropbox.com/s/4fki07u9x82ou1c/popular3.jpeg?dl=0 " ,
       " rating " : " 4.5 " ,
       " deliveryTime " : " 55 mins ",
       " deliveryCharges " : " Delivery charges 50 extra ",
@@ -29,7 +29,7 @@
     },
     {
         " name " : " Indomie " ,
-        " imageUrl " : " https://github.com/fidelatrstyni/mobile-3e-12/blob/master/SRC/12_FindResto/img/popular4.jpg " ,
+        " imageUrl " : " https://www.dropbox.com/s/gajad2raj1pcpbc/popular4.jpg?dl=0 " ,
         " rating " : " 3.8 " ,
         " deliveryTime " : " 25 mins ",
         " deliveryCharges " : " Free Delivery ",
@@ -122,6 +122,6 @@
             " deliveryCharges " : " Free Delivery ",
             " price " : " 250 ",
             " note " : " Special "
-          }
+          },
       ]
   }
