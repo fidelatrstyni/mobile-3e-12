@@ -6,7 +6,7 @@
       "imageUrl" : "https://sweetrip.id/wp-content/uploads/2020/06/miejiwo_101049629_258573461864967_2414588224721876492_n.jpg" ,
       "rating" : "5.0" ,
       "deliveryTime" : "45 mins",
-      "deliveryCharges" : "Free Delivery",
+      "deliveryCharges" : "Nasi Goreng 88",
       "price" : "150",
       "note" : "Extra special"
     },
@@ -15,25 +15,25 @@
         "imageUrl" : "https://asset.kompas.com/crops/gi24VPQMhftubxYIWPJATjHrxTA=/0x0:1000x667/750x500/data/photo/2020/06/30/5efb0cb4a0226.jpg" ,
         "rating" : " 4.9 " ,
         "deliveryTime" : "35 mins",
-        "deliveryCharges" : "Free Delivery",
+        "deliveryCharges" : "Nasi Padang Makmur",
         "price" : "250",
         "note" : "Special"
       },
     {
-      " name " : " Nasi Padang " ,
-      " imageUrl " : "https://awsimages.detik.net.id/community/media/visual/2020/07/06/nasi-padang.jpeg?w=700&q=90" ,
-      " rating " : " 4.5 " ,
-      " deliveryTime " : " 55 mins ",
-      " deliveryCharges " : " Delivery charges 50 extra ",
-      " price " : " 150 ",
-      " note " : " Chilly "
+      "name" : "Nasi Padang" ,
+      "imageUrl" : "https://awsimages.detik.net.id/community/media/visual/2020/07/06/nasi-padang.jpeg?w=700&q=90" ,
+      "rating" : "4.5" ,
+      "deliveryTime" : "55 mins",
+      "deliveryCharges" : "Nasi Padang Kupang",
+      "price" : "150",
+      "note" : "Chilly"
     },
     {
         "name" : "Indomie" ,
         "imageUrl" : "https://d1sag4ddilekf6.cloudfront.net/compressed/items/IDITE2020060716162588670/photo/menueditor_item_e9a0332f72cc4984a793d2a317a2d244_1591546495338089447.jpg" ,
         "rating" : "3.8" ,
         "deliveryTime" : "25 mins",
-        "deliveryCharges" : "Free Delivery",
+        "deliveryCharges" : "Warunk Sederhana",
         "price" : "150",
         "note" : "Spicy"
       }
@@ -45,7 +45,7 @@
         "imageUrl" : "https://asset.kompas.com/crops/gi24VPQMhftubxYIWPJATjHrxTA=/0x0:1000x667/750x500/data/photo/2020/06/30/5efb0cb4a0226.jpg" ,
         "rating" : "4.9" ,
         "deliveryTime" : "35 mins",
-        "deliveryCharges" : "Free Delivery",
+        "deliveryCharges" : "Warunk Jawa",
         "price" : "250",
         "note" : "Special"
       },
@@ -54,7 +54,7 @@
         "imageUrl" : "https://sweetrip.id/wp-content/uploads/2020/06/miejiwo_101049629_258573461864967_2414588224721876492_n.jpg" ,
         "rating" : "5.0" ,
         "deliveryTime" : "45 mins",
-        "deliveryCharges" : "Free Delivery",
+        "deliveryCharges" : "Nasi Goreng 88",
         "price" : "150",
         "note" : "Extra special"
       },
@@ -63,7 +63,7 @@
         "imageUrl" : "https://sifu.unileversolutions.com/image/id-ID/recipe-topvisual/2/1260-709/nasi-pecel-50417934.jpg" ,
         "rating" : "4.0" ,
         "deliveryTime" : "75 mins",
-        "deliveryCharges" : "Free Delivery",
+        "deliveryCharges" : "Pecel Mentari",
         "price" : "150",
         "note" : "Special, Spicy"
       }
@@ -75,7 +75,7 @@
           "imageUrl" : "https://asset.kompas.com/crops/gi24VPQMhftubxYIWPJATjHrxTA=/0x0:1000x667/750x500/data/photo/2020/06/30/5efb0cb4a0226.jpg" ,
           "rating" : "4.9" ,
           "deliveryTime" : "35 mins",
-          "deliveryCharges" : "Free Delivery",
+          "deliveryCharges" : "Warunk Jawa",
           "price" : "250",
           "note" : "Special"
         },
@@ -84,7 +84,7 @@
           "imageUrl" : "https://sweetrip.id/wp-content/uploads/2020/06/miejiwo_101049629_258573461864967_2414588224721876492_n.jpg" ,
           "rating" : "5.0" ,
           "deliveryTime" : "45 mins",
-          "deliveryCharges" : "Free Delivery",
+          "deliveryCharges" : "Nasi Goreng 88",
           "price" : "150",
           "note" : "Extra special"
         },
@@ -93,7 +93,7 @@
           "imageUrl" : "https://sifu.unileversolutions.com/image/id-ID/recipe-topvisual/2/1260-709/nasi-pecel-50417934.jpg" ,
           "rating" : "4.0" ,
           "deliveryTime" : "75 mins",
-          "deliveryCharges" : "Free Delivery",
+          "deliveryCharges" : "Pecel Mentari",
           "price" : "150",
           "note" : "Special, Spicy"
         },
@@ -102,7 +102,7 @@
             "imageUrl" : "https://d1sag4ddilekf6.cloudfront.net/compressed/items/IDITE2020060716162588670/photo/menueditor_item_e9a0332f72cc4984a793d2a317a2d244_1591546495338089447.jpg" ,
             "rating" : "3.8" ,
             "deliveryTime" : "25 mins",
-            "deliveryCharges" : "Free Delivery",
+            "deliveryCharges" : "Warunk Sederhana",
             "price" : "150",
             "note" : "Spicy"
           },
@@ -111,7 +111,7 @@
             "imageUrl" : "https://awsimages.detik.net.id/community/media/visual/2020/07/06/nasi-padang.jpeg?w=700&q=90" ,
             "rating" : " 4.5 " ,
             "deliveryTime" : " 55 mins ",
-            "deliveryCharges" : " Delivery charges 50 extra ",
+            "deliveryCharges" : "Nasi Padang Kupang",
             "price" : "150",
             "note" : "Chilly"
           },
@@ -120,7 +120,7 @@
             "imageUrl" : "https://asset.kompas.com/crops/gi24VPQMhftubxYIWPJATjHrxTA=/0x0:1000x667/750x500/data/photo/2020/06/30/5efb0cb4a0226.jpg" ,
             "rating" : "4.9" ,
             "deliveryTime" : "35 mins",
-            "deliveryCharges" : "Free Delivery",
+            "deliveryCharges" : "Nasi Padang Makmur",
             "price" : "250",
             "note" : "Special"
           }
