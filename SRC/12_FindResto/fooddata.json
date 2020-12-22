@@ -147,7 +147,7 @@
             "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/sate-ayam.jpg" ,
             "rating" : "3.8" ,
             "deliveryTime" : "25 mins",
-            "deliveryCharges" : "Maduraku",
+            "deliveryCharges" : "Sate Madura",
             "price" : "150",
             "note" : "Spicy"
           },
@@ -156,7 +156,7 @@
             "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/bebek-songkem-sambal-lado-mudo.jpg" ,
             "rating" : "3.8" ,
             "deliveryTime" : "25 mins",
-            "deliveryCharges" : "Maduraku",
+            "deliveryCharges" : "Bebek Songkem",
             "price" : "150",
             "note" : "Spicy, Special"
           }
