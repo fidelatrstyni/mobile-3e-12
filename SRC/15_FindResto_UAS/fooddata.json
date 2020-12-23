@@ -1,127 +1,166 @@
-{
-    " popular " : [
-    {
-      " name " : " Nasi Goreng " ,
-      " imageUrl " : " https://www.dropbox.com/s/vky2yw2b35h9hzy/popular1.jpg?dl=0 " ,
-      " rating " : " 5.0 " ,
-      " deliveryTime " : " 45 mins ",
-      " deliveryCharges " : " Free Delivery ",
-      " price " : " 150 ",
-      " note " : " Extra special "
-    },
-    {
-        " name " : " Rendang " ,
-        " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
-        " rating " : " 4.9 " ,
-        " deliveryTime " : " 35 mins ",
-        " deliveryCharges " : " Free Delivery ",
-        " price " : " 250 ",
-        " note " : " Special "
-      },
-    {
-      " name " : " Nasi Padang " ,
-      " imageUrl " : " https://www.dropbox.com/s/4fki07u9x82ou1c/popular3.jpeg?dl=0 " ,
-      " rating " : " 4.5 " ,
-      " deliveryTime " : " 55 mins ",
-      " deliveryCharges " : " Delivery charges 50 extra ",
-      " price " : " 150 ",
-      " note " : " Chilly "
-    },
-    {
-        " name " : " Indomie " ,
-        " imageUrl " : " https://www.dropbox.com/s/gajad2raj1pcpbc/popular4.jpg?dl=0 " ,
-        " rating " : " 3.8 " ,
-        " deliveryTime " : " 25 mins ",
-        " deliveryCharges " : " Free Delivery ",
-        " price " : " 150 ",
-        " note " : " Spicy "
-      }
-    ],
-
-    " recommended " : [
+[
+  {
+      "popular" : [
       {
-        " name " : " Rendang " ,
-        " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
-        " rating " : " 4.9 " ,
-        " deliveryTime " : " 35 mins ",
-        " deliveryCharges " : " Free Delivery ",
-        " price " : " 250 ",
-        " note " : " Special "
+        "name" : "Nasi Goreng" ,
+        "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-kencur-kemangi.jpg" ,
+        "rating" : "5.0" ,
+        "deliveryTime" : "45 mins",
+        "deliveryCharges" : "Nasi Goreng 88",
+        "price" : "150",
+        "note" : "Extra special"
       },
       {
-        " name " : " Nasi Goreng " ,
-        " imageUrl " : " https://www.dropbox.com/s/vky2yw2b35h9hzy/popular1.jpg?dl=0 " ,
-        " rating " : " 5.0 " ,
-        " deliveryTime " : " 45 mins ",
-        " deliveryCharges " : " Free Delivery ",
-        " price " : " 150 ",
-        " note " : " Extra special "
+          "name" : "Rendang" ,
+          "imageUrl" : "https://asset.kompas.com/crops/gi24VPQMhftubxYIWPJATjHrxTA=/0x0:1000x667/750x500/data/photo/2020/06/30/5efb0cb4a0226.jpg" ,
+          "rating" : " 4.9 " ,
+          "deliveryTime" : "35 mins",
+          "deliveryCharges" : "Nasi Padang Makmur",
+          "price" : "250",
+          "note" : "Special"
+        },
+      {
+        "name" : "Nasi Padang" ,
+        "imageUrl" : "https://awsimages.detik.net.id/community/media/visual/2020/07/06/nasi-padang.jpeg?w=700&q=90" ,
+        "rating" : "4.5" ,
+        "deliveryTime" : "55 mins",
+        "deliveryCharges" : "Nasi Padang Kupang",
+        "price" : "150",
+        "note" : "Chilly"
       },
       {
-        " name " : " Pecel " ,
-        " imageUrl " : " https://www.dropbox.com/s/yf9w85qor5nf4x8/recommended1.jpg?dl=0 " ,
-        " rating " : " 4.0 " ,
-        " deliveryTime " : " 75 mins ",
-        " deliveryCharges " : " Free Delivery ",
-        " price " : " 150 ",
-        " note " : " Special, Spicy "
-      }
-    ],
-
-    " allmenu " : [
+          "name" : "Indomie" ,
+          "imageUrl" : "https://d1sag4ddilekf6.cloudfront.net/compressed/items/IDITE2020060716162588670/photo/menueditor_item_e9a0332f72cc4984a793d2a317a2d244_1591546495338089447.jpg" ,
+          "rating" : "3.8" ,
+          "deliveryTime" : "25 mins",
+          "deliveryCharges" : "Warunk Sederhana",
+          "price" : "150",
+          "note" : "Spicy"
+        },
+      {
+          "name" : "Sate Ayam" ,
+          "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/sate-ayam.jpg" ,
+          "rating" : "3.8" ,
+          "deliveryTime" : "25 mins",
+          "deliveryCharges" : "Maduraku",
+          "price" : "150",
+          "note" : "Spicy"
+        },
+      {
+          "name" : "Bebek Songkem" ,
+          "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/bebek-songkem-sambal-lado-mudo.jpg" ,
+          "rating" : "3.8" ,
+          "deliveryTime" : "25 mins",
+          "deliveryCharges" : "Maduraku",
+          "price" : "150",
+          "note" : "Spicy, Special"
+        }
+      ],
+  
+      "recommended" : [
         {
-          " name " : " Rendang " ,
-          " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
-          " rating " : " 4.9 " ,
-          " deliveryTime " : " 35 mins ",
-          " deliveryCharges " : " Free Delivery ",
-          " price " : " 250 ",
-          " note " : " Special "
+          "name" : "Rendang" ,
+          "imageUrl" : "https://asset.kompas.com/crops/gi24VPQMhftubxYIWPJATjHrxTA=/0x0:1000x667/750x500/data/photo/2020/06/30/5efb0cb4a0226.jpg" ,
+          "rating" : "4.9" ,
+          "deliveryTime" : "35 mins",
+          "deliveryCharges" : "Warunk Jawa",
+          "price" : "250",
+          "note" : "Special"
         },
         {
-          " name " : " Nasi Goreng " ,
-          " imageUrl " : " https://www.dropbox.com/s/vky2yw2b35h9hzy/popular1.jpg?dl=0 " ,
-          " rating " : " 5.0 " ,
-          " deliveryTime " : " 45 mins ",
-          " deliveryCharges " : " Free Delivery ",
-          " price " : " 150 ",
-          " note " : " Extra special "
+          "name" : "Nasi Goreng" ,
+          "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-kencur-kemangi.jpg" ,
+          "rating" : "5.0" ,
+          "deliveryTime" : "45 mins",
+          "deliveryCharges" : "Nasi Goreng 88",
+          "price" : "150",
+          "note" : "Extra special"
         },
         {
-          " name " : " Pecel " ,
-          " imageUrl " : " https://www.dropbox.com/s/yf9w85qor5nf4x8/recommended1.jpg?dl=0 " ,
-          " rating " : " 4.0 " ,
-          " deliveryTime " : " 75 mins ",
-          " deliveryCharges " : " Free Delivery ",
-          " price " : " 150 ",
-          " note " : " Special, Spicy "
-        },
-        {
-            " name " : " Indomie " ,
-            " imageUrl " : " https://www.dropbox.com/s/gajad2raj1pcpbc/popular4.jpg?dl=0 " ,
-            " rating " : " 3.8 " ,
-            " deliveryTime " : " 25 mins ",
-            " deliveryCharges " : " Free Delivery ",
-            " price " : " 150 ",
-            " note " : " Spicy "
+          "name" : "Pecel" ,
+          "imageUrl" : "https://sifu.unileversolutions.com/image/id-ID/recipe-topvisual/2/1260-709/nasi-pecel-50417934.jpg" ,
+          "rating" : "4.0" ,
+          "deliveryTime" : "75 mins",
+          "deliveryCharges" : "Pecel Mentari",
+          "price" : "150",
+          "note" : "Special, Spicy"
+        }
+      ],
+  
+      "allmenu" : [
+          {
+            "name" : "Rendang" ,
+            "imageUrl" : "https://asset.kompas.com/crops/gi24VPQMhftubxYIWPJATjHrxTA=/0x0:1000x667/750x500/data/photo/2020/06/30/5efb0cb4a0226.jpg" ,
+            "rating" : "4.9" ,
+            "deliveryTime" : "35 mins",
+            "deliveryCharges" : "Warunk Jawa",
+            "price" : "250",
+            "note" : "Special"
           },
           {
-            " name " : " Nasi Padang " ,
-            " imageUrl " : " https://www.dropbox.com/s/4fki07u9x82ou1c/popular3.jpeg?dl=0 " ,
-            " rating " : " 4.5 " ,
-            " deliveryTime " : " 55 mins ",
-            " deliveryCharges " : " Delivery charges 50 extra ",
-            " price " : " 150 ",
-            " note " : " Chilly "
+            "name" : "Nasi Goreng" ,
+            "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-kencur-kemangi.jpg" ,
+            "rating" : "5.0" ,
+            "deliveryTime" : "45 mins",
+            "deliveryCharges" : "Nasi Goreng 88",
+            "price" : "150",
+            "note" : "Extra special"
           },
           {
-            " name " : " Rendang " ,
-            " imageUrl " : " https://www.dropbox.com/s/x5ewz2aafpkgq12/popular2.jpg?dl=0 " ,
-            " rating " : " 4.9 " ,
-            " deliveryTime " : " 35 mins ",
-            " deliveryCharges " : " Free Delivery ",
-            " price " : " 250 ",
-            " note " : " Special "
+            "name" : "Pecel" ,
+            "imageUrl" : "https://sifu.unileversolutions.com/image/id-ID/recipe-topvisual/2/1260-709/nasi-pecel-50417934.jpg" ,
+            "rating" : "4.0" ,
+            "deliveryTime" : "75 mins",
+            "deliveryCharges" : "Pecel Mentari",
+            "price" : "150",
+            "note" : "Special, Spicy"
           },
-      ]
-  }
+          {
+              "name" : "Indomie" ,
+              "imageUrl" : "https://d1sag4ddilekf6.cloudfront.net/compressed/items/IDITE2020060716162588670/photo/menueditor_item_e9a0332f72cc4984a793d2a317a2d244_1591546495338089447.jpg" ,
+              "rating" : "3.8" ,
+              "deliveryTime" : "25 mins",
+              "deliveryCharges" : "Warunk Sederhana",
+              "price" : "150",
+              "note" : "Spicy"
+            },
+            {
+              "name" : "Nasi Padang" ,
+              "imageUrl" : "https://awsimages.detik.net.id/community/media/visual/2020/07/06/nasi-padang.jpeg?w=700&q=90" ,
+              "rating" : " 4.5 " ,
+              "deliveryTime" : " 55 mins ",
+              "deliveryCharges" : "Masakan Padang",
+              "price" : "150",
+              "note" : "Chilly"
+            },
+            {
+              "name" : "Rendang" ,
+              "imageUrl" : "https://asset.kompas.com/crops/gi24VPQMhftubxYIWPJATjHrxTA=/0x0:1000x667/750x500/data/photo/2020/06/30/5efb0cb4a0226.jpg" ,
+              "rating" : "4.9" ,
+              "deliveryTime" : "35 mins",
+              "deliveryCharges" : "Nasi Padang 77",
+              "price" : "250",
+              "note" : "Special"
+            },
+            {
+              "name" : "Sate Ayam" ,
+              "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/sate-ayam.jpg" ,
+              "rating" : "3.8" ,
+              "deliveryTime" : "25 mins",
+              "deliveryCharges" : "Sate Madura",
+              "price" : "150",
+              "note" : "Spicy"
+            },
+            {
+              "name" : "Bebek Songkem" ,
+              "imageUrl" : "https://kbu-cdn.com/dk/wp-content/uploads/bebek-songkem-sambal-lado-mudo.jpg" ,
+              "rating" : "3.8" ,
+              "deliveryTime" : "25 mins",
+              "deliveryCharges" : "Bebek Songkem",
+              "price" : "150",
+              "note" : "Spicy, Special"
+            }
+        ]
+    }
+  ]
+  
