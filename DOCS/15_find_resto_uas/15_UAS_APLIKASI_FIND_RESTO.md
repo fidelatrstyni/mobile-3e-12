@@ -178,23 +178,23 @@ Tujuan nya yaitu membatu user untuk menemukan restoran yang ingin dicari dan mak
 
 ## Splash
 
-![1](img/ss1.png)
+![1](img/ss1.jpg)
 
 ## Login
 
-![1](img/ss2.png)
+![1](img/ss2.jpg)
 
 ## Opening
 
-![1](img/ss3.png)
+![1](img/ss3.jpg)
 
 ## Beranda Aplikasi
 
-![1](img/ss5.png)
+![1](img/ss5.jpg)
 
 ## Food Detail
 
-![1](img/ss4.png)
+![1](img/ss4.jpg)
 
 # Saran
 
