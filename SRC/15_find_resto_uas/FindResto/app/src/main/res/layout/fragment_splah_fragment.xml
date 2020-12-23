@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        tools:context=".splah_fragment">
+
+        <xyz.sahildave.arclayout.ArcLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="300dp"
+            android:layout_marginLeft="50dp"
+            android:shadowColor="#FFFFFF"
+            android:text="FindResto"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+            android:textColor="#FFFFFF"
+            android:textSize="70dp" />
+
+            <View
+                android:id="@+id/divider"
+                android:layout_width="353dp"
+                android:layout_height="1dp"
+                android:background="#ffff"
+                android:layout_marginTop="390dp"
+                android:layout_marginLeft="25dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Find Restaurant In Your Area"
+                android:textColor="#FFFFFF"
+                android:textSize="25dp"
+                android:layout_marginTop="400dp"
+                android:layout_marginLeft="50dp"/>
+        </xyz.sahildave.arclayout.ArcLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splah_fragment">
+
+    <fragment
+        android:id="@+id/splah_fragment"
+        android:name="com.app.findResto.splah_fragment"
+        android:label="fragment_splah_fragment"
+        tools:layout="@layout/fragment_splah_fragment" >
+        <action
+            android:id="@+id/action_splah_fragment_to_login_fragment"
+            app:destination="@id/login_fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/login_fragment"
+        android:name="com.app.findResto.login_fragment"
+        android:label="fragment_login_fragment"
+        tools:layout="@layout/fragment_login_fragment" >
+        <action
+            android:id="@+id/action_login_fragment_to_selamat_datang"
+            app:destination="@id/selamat_datang" />
+    </fragment>
+    <fragment
+        android:id="@+id/selamat_datang"
+        android:name="com.app.findResto.opening"
+        android:label="fragment_selamat_datang"
+        tools:layout="@layout/fragment_opening" >
+        <argument
+            android:name="user"
+            app:argType="com.app.findResto.model.User" />
+    </fragment>
+</navigation>
