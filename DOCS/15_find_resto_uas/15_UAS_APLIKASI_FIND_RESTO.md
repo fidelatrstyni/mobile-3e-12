@@ -72,7 +72,7 @@ Tujuan nya yaitu membatu user untuk menemukan restoran yang ingin dicari dan mak
 
 ## Food Data
 
-![1](img/Allfooddata-model1.png)
+![1](img/fooddata-model1.png)
 
 ## Popular
 
